@@ -1,0 +1,50 @@
+@charset "utf-8";
+body{
+	  width:100%;
+	  height:40%; 
+
+	   
+    background-position:top; 
+    background-image: url('img.png');  
+    background-repeat:no-repeat;
+    }
+h{
+    font-size:75;
+    color:#EEAC2B;
+
+}
+#hl{
+margin:50px 430px;
+
+}
+tbody{
+    border:3px dashed yellow;
+}
+#container{
+    height:800px;
+    margin:1px auto;
+}
+#create{
+	 margin:10px 60px;
+}
+#div1{
+	width:300px;
+	margin:120px auto;
+	}
+ #input{
+                display:none;
+	margin:0 400px;
+                height:100px;
+  }
+ #res{
+    width:80%;
+    margin:0 auto;
+    border-collapse: collapse;
+  }
+  #res td{
+    border:1px solid black;
+  }
+  td{
+    text-align: center;
+	}
+
